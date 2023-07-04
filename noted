@@ -1,0 +1,17 @@
+testing ios
+testing android
+Testing cloud
+Testing
+
+Flutter:
+flutter version: v3.7.8
+dart version: v2.19.5
+
+Android:
+path:\marikost\android\app\build.gradle
+flutter minSdkVersion: 20
+flutter targetSdkVersion: 33
+flutter compileSdkVersion: 33
+
+Ios: 
+kurang tau mungkin bapak bisa ngasi tau soalnya saya gak tau apa mungkin kekurangannya karena saya gak bisa cek test run device Ios
